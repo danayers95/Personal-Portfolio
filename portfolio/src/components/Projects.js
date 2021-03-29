@@ -33,10 +33,10 @@ const Projects = (props) => (
                         <h3 class="modal-subtitle">Technology</h3>
                         <ul class="technology">
                             <li>ReactJS</li>
-                            <li>Firebase</li>
+                            <li>SCSS</li>
                             <li>HTML</li>
                             <li>CSS</li>
-                            <li>DigitalOcean</li>
+                            <li>Heroku</li>
                         </ul>
                         `}
           />
@@ -49,25 +49,21 @@ const Projects = (props) => (
               </p>
             }
             longDescription={`<h3 class="modal-subtitle">Description</h3>
-                        <p>If you don't know what IMDb is, it stands for Internet Movie Database. 
-                        It provides information about movies or shows, including data about the cast, box office value, plot summaries and more! 
-                        It was developed in the early 1990s and as you can guess, some of the design choices from that decade are still noticeable. 
-                        My project, IMnotDb, aims to simplify IMDb by giving a more modern and clean user interface.</p>
+                        <p></p>
                         <h3 class="modal-subtitle">Links</h3>
                         <p>
-                        <a href="https://imnotdb.alex-pham.com/" class="demo">Demo</a>
+                        <a href="" class="demo">Demo</a>
                         </p>
                         <p>
-                        <a href="https://github.com/baapham/IMnotDb" class="demo">Github</a>
+                        <a href="" class="demo">Github</a>
                         </p>
                         <h3 class="modal-subtitle">Technology</h3>
                         <ul class="technology">
                             <li>HTML</li>
                             <li>CSS</li>
                             <li>Javascript</li>
-                            <li>OMDb API</li>
                             <li>Bootstrap</li>
-                            <li>DigitalOcean</li>
+                            
                         </ul>
                         `}
           />
@@ -81,27 +77,20 @@ const Projects = (props) => (
               </p>
             }
             longDescription={`<h3 class="modal-subtitle">Description</h3>
-                        <p>This project aimed to promote a culture that values the importance of equity, diversity and inclusion in emerging scientists.
-                        The project goal was to create a novel approach to addressing technology at conferences held at UNSW,
-                        by developing an interactive app/mobile webpage for a student-led event and that can be up-scaled and adapted for future events across UNSW.
-                        Its main goals were:
+                        <p>This project is primarily aimed at those who make income from music, art, or anything similar. Users 
+                        create an account and can deposit money earned from performances. The application also allows the user to track 
+                        any and all expenses for efficient money management.
                         </p>
-                        <ul>
-                            <li>Provide information and support to attendees of conferences from diverse backgrounds to ensure that they feel included and that their needs are met.</li>
-                            <li>Provide a platform to allow students who feel excluded during the conference find support in real-time</li>
-                            <li>Provide easily accessible information, including text to speech and plain language (easy English) for symposium information and abstracts</li>
-                        </ul>
                         <h3 class="modal-subtitle">Links</h3>
                         <p>
-                        <a href="https://accessgesss.com/" class="demo">Demo (no longer available)</a>
+                        <a href="https://morning-fortress-86194.herokuapp.com" class="demo">Demo</a>
                         </p>
                         <h3 class="modal-subtitle">Technology</h3>
                         <ul class="technology">
-                            <li>HTML</li>
+                            <li>Javascript</li>
                             <li>CSS</li>
-                            <li>Wordpress</li>
-                            <li>DigitalOcean</li>
-                            <li>Google Maps API</li>
+                            <li>Handlebars</li>
+                            <li>Heroku</li>
                         </ul>
                         `}
           />
@@ -114,11 +103,12 @@ const Projects = (props) => (
               </p>
             }
             longDescription={`<h3 class="modal-subtitle">Description</h3>
-                        <p>My previous website portfolio was boring and I wanted a change. It was running on Wordpress and I wanted to develop a new website from the ground up (i.e. no themes) to gain some experience.
-                         As I want to go into front end development, this project was mainly to get me familiar with React. For a portfolio website, it may be overkill but I wanted to experiment and have fun.</p>
+                        <p>While I had already made myself a simple portfolio in React, I knew I wanted something that really showcased
+                        not only my ability to code but my ability to create a charming and fun application. I had to learn how to implement a lot 
+                        of new things for this project (such as the parallaxes and particle effects), and what resulted is a much better portfolio page than before.</p>
                         <h3 class="modal-subtitle">Links</h3>
                         <p>
-                        <a href="https://alex-pham.com/" class="demo">Demo</a>
+                        <a href="" class="demo">Demo</a>
                         </p>
                         <p>
                         <a href="https://github.com/danayers95/Personal-Portfolio" class="demo">Github</a>
