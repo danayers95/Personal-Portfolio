@@ -111,7 +111,7 @@ const Projects = (props) => (
                         of new things for this project (such as the parallaxes and particle effects), and what resulted is a much better portfolio page than before.</p>
                         <h3 class="modal-subtitle">Links</h3>
                         <p>
-                        <a href="" class="demo">Demo</a>
+                        <a href="https://danielayersportfolio.herokuapp.com/" class="demo">Demo</a>
                         </p>
                         <p>
                         <a href="https://github.com/danayers95/Personal-Portfolio" class="demo">Github</a>
