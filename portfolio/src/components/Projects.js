@@ -45,24 +45,24 @@ const Projects = (props) => (
             title="Employee Directory"
             shortDescription={
               <p>
-                An application that generates a directory of fake employees to manage.
+                An application that generates a directory of employees to manage.
               </p>
             }
             longDescription={`<h3 class="modal-subtitle">Description</h3>
                         <p></p>
                         <h3 class="modal-subtitle">Links</h3>
                         <p>
-                        <a href="" class="demo">Demo</a>
+                        <a href="https://limitless-ravine-24473.herokuapp.com/" class="demo">Demo</a>
                         </p>
                         <p>
-                        <a href="" class="demo">Github</a>
+                        <a href="https://github.com/danayers95/React-User-Directory" class="demo">Github</a>
                         </p>
                         <h3 class="modal-subtitle">Technology</h3>
                         <ul class="technology">
                             <li>HTML</li>
                             <li>CSS</li>
                             <li>Javascript</li>
-                            <li>Bootstrap</li>
+                            <li>Heroku</li>
                             
                         </ul>
                         `}
@@ -84,6 +84,9 @@ const Projects = (props) => (
                         <h3 class="modal-subtitle">Links</h3>
                         <p>
                         <a href="https://morning-fortress-86194.herokuapp.com" class="demo">Demo</a>
+                        </p>
+                        <p>
+                        <a href="https://github.com/danayers95/Artist-Savor-1" class="demo">Github></a>
                         </p>
                         <h3 class="modal-subtitle">Technology</h3>
                         <ul class="technology">
