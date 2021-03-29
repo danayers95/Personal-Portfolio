@@ -15,6 +15,18 @@ export default function NameAnimation() {
     update: { color: '#28b4d7' },
   })
 
+  const reset = useCallback(() => {
+    ref.current.map(clearTimeout)
+    ref.current = []
+    set([])
+    ref.current.push(setTimeout(() => set(['Dan Ayers']), 2000))
+    ref.current.push(setTimeout(() => set(['Fullstack', 'Web', 'Developer']), 5000))
+    ref.current.push(setTimeout(() => set(['Web', 'Developer']), 8000))
+    ref.current.push(setTimeout(() => set(['Developer']), 11000))
+    ref.current.push(setTimeout(() => set(['Dan Ayers']), 14000))
+  }, [])
+
+  useEffect(() => void reset(), [])
 
   return (
     <div className="animation">
