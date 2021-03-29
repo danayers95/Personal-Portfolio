@@ -12,10 +12,10 @@ const About = (props) => (
             <i>Hi, I'm Dan</i>
           </h3>
           <p>
-            I recently graduated from The Coding Boot Camp at UNC-Chapel Hill, where I recieved a professional certificate
-            in Full Stack Web Development. In my free time I've enjoyed writing, recording and performing music since high school. 
-            Previously a full time server at Raleigh Times in Raleigh, I used the unfortunate situation of 2020 to learn new skills
-            and better myself in various ways.             
+            I recently graduated from The Coding Boot Camp at UNC-Chapel Hill - a rigorous 6 month course that covers everything from HTML to maintaining servers and databases.
+            It was here where I recieved a professional certificate in Full Stack Web Development. In my free time I've enjoyed writing, recording and performing music 
+            since high school. 
+            Previously a full time server at Raleigh Times in Raleigh, I used the unfortunate situation of 2020 to go back to school and learn some new skills that could open the door to future opportunities.         
           </p>
           <h3>
             <i>Where I'm From</i>
