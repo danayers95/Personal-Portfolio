@@ -160,7 +160,7 @@ export default class MyForm extends React.Component {
                     <a
                       rel="noopener noreferrer"
                       className="contact-social-item"
-                      href="https://www.linkedin.com/in/danayers95/"
+                      href="https://www.linkedin.com/in/dan-ayers95/"
                       target="_blank"
                     >
                       <img
