@@ -90,6 +90,14 @@
 	transform: scale(0.3);
 }
 
+.cloud-position-10 {
+    margin: 0;
+    padding: 0;
+    right: 60%;
+    top: 60%;
+    transform: scale(0.5);
+}
+
 .sun-position {
 	margin: 0;
     padding: 0;
@@ -142,6 +150,9 @@
 	.cloud-position-4 {
 		transform: scale(1.5);
 	}
+    .cloud-position-5 {
+        transform: scale(1.5);
+    }
 	.bird-position {
 		transform: scale(0.3);
 	}
