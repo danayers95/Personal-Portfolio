@@ -106,7 +106,7 @@ export default class MyForm extends React.Component {
               className="contact-form"
             >
               <div className="section-heading--about">
-                <h1>Let's talk</h1>
+                <h1>Contact Me</h1>
               </div>
               <div className="contact-form-container">
                 <div className="contact-input">
