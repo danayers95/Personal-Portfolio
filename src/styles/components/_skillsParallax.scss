@@ -53,7 +53,7 @@
     padding: 0;
     position: relative;
 	top: 50%;
-	transform: scale(0.4);
+	transform: scale(0.9);
 }
 
 .cloud-position-6 {
@@ -157,10 +157,28 @@
 		transform: scale(1.5);
 	}
 	.cloud-position-4 {
-		transform: scale(1.5);
+		transform: scale(0.9);
 	}
     .cloud-position-5 {
-        transform: scale(1.5);
+        transform: scale(0.9);
+    }
+    .cloud-position-6 {
+        transform: scale(0.5);
+    }
+    .cloud-position-7 {
+        transform: scale(0.3);
+    }
+    .cloud-position-8 {
+        transform: scale(0.3);
+    }
+    .cloud-position-9 {
+        transform: scale(0.3);
+    }
+    .cloud-position-10 {
+        transform: scale(0.4);
+    }
+    .cloud-position-11 {
+        transform: scale(0.7);
     }
 	.bird-position {
 		transform: scale(0.3);
