@@ -21,9 +21,24 @@ A sleek and simple portfolio made using React. Showcases my design ability while
 ### Challenges 
 - I had some trouble with the formatting with parallax.js - would like to work with it again in the future so that I can fully wrap my head around it. 
 
-## Demo:
-Link to deployed application here: 
-https://danielayersportfolio.herokuapp.com/
+### Link to deployed application: 
+[Heroku](https://danielayersportfolio.herokuapp.com/)
+
+## Built With
+
+- CSS (SCSS)
+- HTML
+- Javscript (React.js)
+- Hosted on Heroku
+- 3rd Party Tools:
+    - parallax.js (https://matthew.wagerfield.com/parallax/)
+        - Used for the parallax effect on the Skills section
+    - Color Changing Background (https://codepen.io/alexzaworski/pen/mEkvAG)
+        - Used for the contact form
+    - SweetAlert (https://sweetalert2.github.io/)
+        - Used for modals
+    - react-particles-js (https://www.npmjs.com/package.react-particles-js)
+        - Used for the contact form
 
 ## Usage:
 No usage info given
