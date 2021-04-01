@@ -22,7 +22,7 @@ const About = (props) => (
           </h3>
           <p>
             I was born in Ottawa, Canada, where my family lived for a short time before moving to Cary, North Carolina. With a father in 
-            mechanical engineering and a very early interest in video games, I became interested in computers early on in life. While I attended classes at 
+            software engineering and a very early interest in video games, I became interested in computers early on in life. While I attended classes at 
             Wake Technical Community College right out of high school, I mostly used that time to save up money and tour/play shows in various 
             bands. While the traveling and the new experiences were always great, I felt that I needed to find something 
             more fulfilling.            
