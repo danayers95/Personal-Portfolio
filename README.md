@@ -13,7 +13,8 @@
 -[Questions](#questions)<br>
 
 ### Link to deployed application: 
-[Heroku](https://danielayersportfolio.herokuapp.com/)
+~[Heroku](https://danielayersportfolio.herokuapp.com/)~
+[Github-Pages](https://danayers95.github.io/Personal-Portfolio/) 
 
 ---
 
@@ -24,7 +25,8 @@ A sleek and simple portfolio made using React. Showcases my design ability while
 - I had some trouble with the formatting with parallax.js - would like to work with it again in the future so that I can fully wrap my head around it. 
 
 ### Link to deployed application: 
-[Heroku](https://danielayersportfolio.herokuapp.com/)
+~[Heroku](https://danielayersportfolio.herokuapp.com/)~
+[Github-Pages](https://danayers95.github.io/Personal-Portfolio/)
 
 ## Built With
 
