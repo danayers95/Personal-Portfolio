@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.d1c5496c.chunk.css",
+    "main.js": "/Personal-Portfolio/static/js/main.69fcef26.chunk.js",
+    "main.js.map": "/Personal-Portfolio/static/js/main.69fcef26.chunk.js.map",
+    "runtime-main.js": "/Personal-Portfolio/static/js/runtime-main.9740f667.js",
+    "runtime-main.js.map": "/Personal-Portfolio/static/js/runtime-main.9740f667.js.map",
+    "static/css/2.7c1e0511.chunk.css": "/Personal-Portfolio/static/css/2.7c1e0511.chunk.css",
+    "static/js/2.4b3eeba4.chunk.js": "/Personal-Portfolio/static/js/2.4b3eeba4.chunk.js",
+    "static/js/2.4b3eeba4.chunk.js.map": "/Personal-Portfolio/static/js/2.4b3eeba4.chunk.js.map",
+    "index.html": "/Personal-Portfolio/index.html",
+    "precache-manifest.faf64d2c532c861d1b322c4f535c57ba.js": "/Personal-Portfolio/precache-manifest.faf64d2c532c861d1b322c4f535c57ba.js",
+    "service-worker.js": "/Personal-Portfolio/service-worker.js",
+    "static/css/2.7c1e0511.chunk.css.map": "/Personal-Portfolio/static/css/2.7c1e0511.chunk.css.map",
+    "static/css/main.d1c5496c.chunk.css.map": "/Personal-Portfolio/static/css/main.d1c5496c.chunk.css.map",
+    "static/media/ArtistSavor.png": "/Personal-Portfolio/static/media/ArtistSavor.eb707b13.png",
+    "static/media/CSS.svg": "/Personal-Portfolio/static/media/CSS.8a8d83de.svg",
+    "static/media/EmployeeDirectory.png": "/Personal-Portfolio/static/media/EmployeeDirectory.973796a8.png",
+    "static/media/HTML.svg": "/Personal-Portfolio/static/media/HTML.c27351c0.svg",
+    "static/media/MySQL.svg": "/Personal-Portfolio/static/media/MySQL.126bf597.svg",
+    "static/media/React.svg": "/Personal-Portfolio/static/media/React.91eae117.svg",
+    "static/media/ReactPortfolio.png": "/Personal-Portfolio/static/media/ReactPortfolio.1b8d8f17.png",
+    "static/media/bootstrap.svg": "/Personal-Portfolio/static/media/bootstrap.ffded238.svg",
+    "static/media/game.png": "/Personal-Portfolio/static/media/game.227e7cfd.png",
+    "static/media/github.svg": "/Personal-Portfolio/static/media/github.7447a07f.svg",
+    "static/media/handlebars.svg": "/Personal-Portfolio/static/media/handlebars.9f18301a.svg",
+    "static/media/javascript.svg": "/Personal-Portfolio/static/media/javascript.2d2e31cc.svg",
+    "static/media/linkedin.svg": "/Personal-Portfolio/static/media/linkedin.55be3535.svg",
+    "static/media/mongodb.svg": "/Personal-Portfolio/static/media/mongodb.2985235d.svg",
+    "static/media/nextjs.svg": "/Personal-Portfolio/static/media/nextjs.68e8250c.svg",
+    "static/media/npm.svg": "/Personal-Portfolio/static/media/npm.6f7aeee8.svg",
+    "static/media/sequelize.svg": "/Personal-Portfolio/static/media/sequelize.43c9d125.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9740f667.js",
+    "static/css/2.7c1e0511.chunk.css",
+    "static/js/2.4b3eeba4.chunk.js",
+    "static/css/main.d1c5496c.chunk.css",
+    "static/js/main.69fcef26.chunk.js"
+  ]
+}
