@@ -12,6 +12,8 @@
 -[Tests](#tests)<br>
 -[Questions](#questions)<br>
 
+### Link to deployed application: 
+[Heroku](https://danielayersportfolio.herokuapp.com/)
 
 ---
 
